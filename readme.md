@@ -16,6 +16,7 @@ When all boxes are aligned correctly, you solve the puzzle.
 This mode adds a fast, casual mini-game alongside the main chemistry challenges.
 A real-time solver runs in the background, allowing the game to provide hints or check puzzle solvability.
 When you complete the synthesis or color-matching puzzle correctly, you win the round!
+
 ---
 
 ## ✨ Features

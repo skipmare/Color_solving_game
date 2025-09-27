@@ -43,22 +43,10 @@ Make sure you have the following installed:
     - [Nuklear](https://github.com/vurtun/nuklear) – lightweight GUI
     - [stb_image_write](https://github.com/nothings/stb) – image output support
 
-### Build Instructions
 
-```bash
-git clone https://github.com/yourusername/chemsynth.git
-cd chemsynth
-mkdir build && cd build
-cmake ..
-cmake --build .
-```
+### How to Play
 
-### Run the game
-
-```bash
-./chemsynth
-```
-
+Compile and run `main.cpp`.
 ---
 
 ## 🎮 Controls
